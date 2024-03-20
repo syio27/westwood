@@ -9,5 +9,4 @@ public class WestwoodApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WestwoodApplication.class, args);
 	}
-
 }
